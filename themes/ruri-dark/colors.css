@@ -91,7 +91,7 @@ h1 {
 }
 .button_green > a,
 .button_green > ul > li > a {
-    color: #e06876;
+    color: #eeeee4;
     background: #e06876;
 }
 .button_green > a:after {
@@ -99,8 +99,8 @@ h1 {
 }
 .button_green:hover > a,
 .button_green > ul > li > a:hover {
-    color: #269926;
-    background: #67E667;
+    color: #eeeee4;
+    background: #e06876;
 }
 .button_green:hover > a,
 .button_green:hover > ul {
