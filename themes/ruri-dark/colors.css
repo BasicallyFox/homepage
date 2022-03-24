@@ -95,16 +95,16 @@ h1 {
     background: #e06876;
 }
 .button_green > a:after {
-    border-left-color: #91b476;
+    border-left-color: #a54e55;
 }
 .button_green:hover > a,
 .button_green > ul > li > a:hover {
     color: #eeeee4;
-    background: #e06876;
+    background: #a54e55;
 }
 .button_green:hover > a,
 .button_green:hover > ul {
-    border-color: #67E667;
+    border-color: #a54e55;
 }
 .button_green:hover > a:after {
     border-left-color: #269926;
